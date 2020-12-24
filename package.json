@@ -1,0 +1,23 @@
+{
+  "name": "ozark",
+  "version": "0.1.0",
+  "description": "AWS Powered Multi-Input Generator and Manager for Westworld.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamocityhacks/ozark.git"
+  },
+  "author": "Sarthak Mohanty <sarthaktexas@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alamocityhacks/ozark/issues"
+  },
+  "homepage": "https://github.com/alamocityhacks/ozark#readme",
+  "dependencies": {
+    "aws-sdk": "^2.817.0",
+    "dotenv": "^8.2.0"
+  }
+}
