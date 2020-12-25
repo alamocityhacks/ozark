@@ -1,5 +1,4 @@
 var getInput = require('../utils/getinput');
-
 module.exports = async (req, res) => {
     if (req.query.groupid && req.query.challenge) {
         const {

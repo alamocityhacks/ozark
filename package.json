@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/alamocityhacks/ozark#readme",
   "dependencies": {
+    "atob": "^2.1.2",
     "aws-sdk": "^2.817.0",
+    "btoa": "^1.2.1",
     "dotenv": "^8.2.0"
   }
 }
